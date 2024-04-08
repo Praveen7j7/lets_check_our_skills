@@ -12,6 +12,7 @@ int main()
     cout<<"Yes";
     else
     cout<<"No";
+    cout<<endl;
    
    return 0;
 }
